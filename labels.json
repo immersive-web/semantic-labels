@@ -1,0 +1,36 @@
+{
+    "labels": [
+        {
+            "label": "desk",
+            "orientation": "horizontal"
+        },
+        {
+            "label": "couch",
+            "orientation": "horizontal"
+        },
+        {
+            "label": "floor",
+            "orientation": "horizontal"
+        },
+        {
+            "label": "ceiling",
+            "orientation": "horizontal"
+        },
+        {
+            "label": "wall",
+            "orientation": "vertical"
+        },
+        {
+            "label": "door",
+            "orientation": "vertical"
+        },
+        {
+            "label": "window",
+            "orientation": "vertical"
+        },
+        {
+            "label": "other",
+            "orientation": "unknown"
+        }
+    ]
+}
