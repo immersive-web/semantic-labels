@@ -29,6 +29,34 @@
             "orientation": "vertical"
         },
         {
+            "label": "table",
+            "orientation": "horizontal"
+        },
+        {
+            "label": "shelf",
+            "orientation": "horizontal"
+        },
+        {
+            "label": "bed",
+            "orientation": "horizontal"
+        },
+        {
+            "label": "screen",
+            "orientation": "horizontal"
+        },
+        {
+            "label": "lamp",
+            "orientation": "horizontal"
+        },
+        {
+            "label": "plant",
+            "orientation": "horizontal"
+        },
+        {
+            "label": "wall art",
+            "orientation": "vertical"
+        },
+        {
             "label": "other",
             "orientation": "unknown"
         }
