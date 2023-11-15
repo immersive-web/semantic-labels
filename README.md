@@ -15,6 +15,6 @@ The current list of semantic labels is:
 ## Taking Part
 
 1. Read the [code of conduct](18)
-2. See if your issue is being discussed in the [issues](8), or if your idea is being discussed in the [proposals repo][19].
+2. See if your issue is being discussed in the [issues](8), or if your idea is being discussed in the [proposals repo](https://github.com/immersive-web/proposals).
 3. We will be publishing the minutes from the bi-weekly calls.
 4. You can also join the working group to participate in these discussions.
