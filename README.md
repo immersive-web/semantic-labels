@@ -10,6 +10,7 @@ The current list of semantic labels is:
 * wall
 * door
 * window
+* global mesh
 * other
 
 ## Taking Part
